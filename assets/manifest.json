@@ -1,6 +1,6 @@
 {
-    "name": "MC Web Client",
-    "short_name": "Jmax Web Client",
+    "name": "Prismarine Web Client",
+    "short_name": "Prismarine Web Client",
     "scope": "/",
     "start_url": "/",
     "icons": [{
